@@ -1,0 +1,4 @@
+{
+    "origin_model": "google/t5-xl-lm-adapt",
+    "model_class": "seq2seq_lm"
+}

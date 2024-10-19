@@ -1,0 +1,4 @@
+{
+    "origin_model": "bigscience/T0_3B",
+    "model_class": "seq2seq_lm"
+}

@@ -1,0 +1,182 @@
+{
+  "bbbooleanexpressions": [
+    "Evaluate the Boolean expression provided in the input and output whether the result is True or False.",
+    "Evaluate the logical expressions provided in the input and output the result, making correct use of Boolean logic operators such as and, or, and not."
+  ],
+  "bbcausaljudgement": [
+    "Assess and answer causation questions from hypothetical scenarios, requiring reasoning about the actions and intentions of individuals involved.",
+    "Provide answers to questions about causation, requiring critical thinking and understanding of conditions and consequences."
+  ],
+  "bbdateunderstanding": [
+    "Provide the date in MM/DD/YYYY format for the day following the scenario described, using basic calendar knowledge and date calculation skills.",
+    "Generate the correct date based on the scenario described, calculating dates accurately using information given in a narrative context."
+  ],
+  "bbdisambiguationqa": [
+    "Determine the antecedent of the pronoun in each sentence, selecting the correct choice from the provided options or stating that it is ambiguous.",
+    "Determine the antecedent of the pronoun in each sentence or identify if it is ambiguous, using knowledge of grammar and context."
+  ],
+  "bbdycklanguages": [
+    "Generate the proper closing sequence for the given string of parentheses and brackets, ensuring all types of parentheses and brackets are correctly closed in order.",
+    "Generate the correct closing sequence for the given string of opening and closing brackets, ensuring all types of brackets are properly nested and closed."
+  ],
+  "bbformalfallacies": [
+    "Evaluate the deductive validity of the argument presented, given the explicitly stated premises, and determine whether it is valid or invalid.",
+    "Determine if the argument presented is deductively valid or invalid based on the explicitly stated premises, requiring analytical and logical reasoning skills."
+  ],
+  "bbgeometricshapes": [
+    "Identify the shape drawn by the described SVG path element from a list of choices, requiring knowledge of geometric shapes and an understanding of SVG path syntax.",
+    "Analyze the shape drawn by the given SVG path element and choose the correct shape from a list of options."
+  ],
+  "bbhyperbaton": [
+    "Determine which sentence has the correct adjective order according to English grammar rules.",
+    "Determine which sentence has the correct order of adjectives according to standard English grammar rules."
+  ],
+  "bblogicaldeduction": [
+    "Determine and output the order or relative position of items in a list based on logically consistent statements provided in a paragraph, requiring skills in logical reasoning and comprehension of spatial or chronological arrangement.",
+    "Analyze paragraphs describing sets of five objects arranged in a specific order to deduce and state a fact about one of the objects based on the given logical statements."
+  ],
+  "bbmovierecommendation": [
+    "Select the most similar movie from a list of choices based on genre, theme, or style similarities to the given examples, using knowledge of film characteristics and connections between them.",
+    "Select the movie from the provided choices that is most similar to the given list of movies, using your knowledge of film genres and themes."
+  ],
+  "bbmultisteparithmetictwo": [
+    "Solve the arithmetic expressions provided and output the correct numerical answer, demonstrating your skill in basic mathematics.",
+    "Calculate the result of the arithmetic expressions provided in each input, demonstrating your knowledge of basic arithmetic operations including addition, subtraction, multiplication, and division."
+  ],
+  "bbnavigate": [
+    "Determine whether following the given directional instructions will result in returning to the starting point, requiring spatial reasoning skills.",
+    "Determine whether following the given set of directional instructions will bring you back to the starting point, using spatial reasoning and understanding of movements."
+  ],
+  "bbobjectcounting": [
+    "Count the items in the provided list that fit a specific category and provide the total number, requiring the ability to classify items correctly.",
+    "Count the number of specific items categorized as either animals, vegetables, or musical instruments from a provided list and provide the total."
+  ],
+  "bbpenguinsinatable": [
+    "Create a language model task instruction to read data from a structured table, perform data manipulations like deletion and comparisons, and answer questions based on the remaining data, requiring understanding of basic arithmetic and data filtering.",
+    "Generate the task instruction as follows: \"Given a set of input examples involving operations on data tables, identify and answer questions based on modifications and properties of these tables, requiring skills in data manipulation and comprehension.\""
+  ],
+  "bbreasoningaboutcoloredobjects": [
+    "Determine the color of a specific object or answer yes/no questions about the color of objects based on their descriptions and positions.",
+    "Write a response based on spatial reasoning and color identification from the descriptions given of item arrangements and actions performed on those items."
+  ],
+  "bbruinnames": [
+    "Identify the most humorous edit of the given artist or movie name from a list of choices, demonstrating creativity and a sense of humor.",
+    "Select the most humorous edit of the given artist or movie name from the provided choices, demonstrating an understanding of wordplay and humor."
+  ],
+  "bbsalienttranslationerrordetection": [
+    "Identify and classify the type of error in the provided German to English translation, which could be related to named entities, numerical values, modifiers or adjectives, negation or antonyms, facts, or dropped content, requiring knowledge in identifying inconsistencies in translation and error types.",
+    "Identify and classify the type of error in these translations from German to English, using specific categories such as Named Entities, Numerical Values, Modifiers or Adjectives, Negation or Antonyms, Facts, and Dropped Content."
+  ],
+  "bbsnarks": [
+    "Identify which statement is sarcastic from the given options, requiring knowledge of sarcasm.",
+    "Identify which statement is sarcastic by considering context and irony, and select the corresponding letter."
+  ],
+  "bbsportsunderstanding": [
+    "Determine whether the provided statements are plausible or implausible, drawing on your knowledge of sports and the typical actions associated with different sports players.",
+    "Determine whether the given sports-related statement is plausible or implausible, using your knowledge of sports and athletes."
+  ],
+  "bbtemporalsequences": [
+    "Determine the possible time window for a person's visit to a location based on given time constraints and eyewitness accounts.",
+    "Determine the possible time period during which a person could have visited a specific location given a schedule of their observed activities and locations, requiring logical reasoning and time management skills."
+  ],
+  "bbtrackingshuffledobjects": [
+    "Track the sequence of exchanges between different people to determine the final item each person ends up with, requiring attention to detail and logical tracking skills.",
+    "Determine the final possession or partner of a person after a series of trades or swaps, using your tracking and reasoning skills."
+  ],
+  "bbweboflies": [
+    "Determine the truthfulness of characters in a given scenario by applying logic and reasoning skills to analyze statements about who is lying or telling the truth.",
+    "Determine if the final person in a series of statements about who tells the truth or lies is themselves telling the truth or not, using logical reasoning skills."
+  ],
+  "bbwordsorting": [
+    "Sort a provided list of words alphabetically and write the sorted list as a response.",
+    "Sort a given list of words alphabetically and provide the sorted list as the answer."
+  ],
+  "bbautodebugging": [
+    "Write a concise instruction to a language model that involves computing the values of variables at specified points in given Python code snippets, requiring an understanding of Python programming and execution flow.",
+    "Determine the final value of variables or expressions in given Python code snippets by accurately interpreting and executing the code."
+  ],
+  "bbbbqlitejson": [
+    "Create a task instruction that asks the model to determine which person or option fits a given description in the context of a question, ensuring not to make assumptions based on stereotypes or incomplete information.",
+    "Based on the examples provided, generate a task instruction in one sentence that could be: \"Given a scenario and multiple choice answers, determine which response best addresses the question without making assumptions beyond the provided information, using reasoning and comprehension skills.\""
+  ],
+  "bbcodelinedescription": [
+    "Write an instruction asking the model to analyze given Python code and multiple choice descriptions, then select the most accurate description of what the code does, requiring knowledge in programming and English comprehension.",
+    "Provide the correct English language description of the behavior or output of the given Python code snippet from the provided multiple-choice options, demonstrating your understanding of Python programming."
+  ],
+  "bbconceptualcombinations": [
+    "Choose the best answer from the given options that correctly describes the provided concept, using your understanding of definitions and logical deductions.",
+    "Write an instruction asking the language model to select the option that best characterizes a given concept among multiple choices, requiring knowledge of common uses and properties of everyday objects."
+  ],
+  "bbconlangtranslation": [
+    "Translate sentences from Adna to English or from English to Adna using the provided dictionary of sentence examples, demonstrating language translation skills.",
+    "Translate sentences between a given fictional language and English by using example translations provided to identify grammar and vocabulary patterns in the fictional language."
+  ],
+  "bbemojimovie": [
+    "Determine which movie is described by the given emojis and select the correct answer from the multiple choices provided, using your knowledge of popular films and understanding of emoji representations.",
+    "Identify the movie described by the given series of emojis from a list of choices, leveraging your understanding of both emoji representations and cultural knowledge of films."
+  ],
+  "bbhinduknowledge": [
+    "Provide the correct answer from the given multiple choices based on your knowledge of Hindu mythology and religion.",
+    "Answer the multiple-choice questions based on your knowledge of Hindu mythology and religious texts."
+  ],
+  "bbknownunknowns": [
+    "Write an instruction for a task asking the language model to select the most likely correct answer from given choices, utilizing specific knowledge about the question or recognizing when the answer is uncertain or unspecified.",
+    "Generate the correct answer for the multiple-choice question provided, using general knowledge and reasoning when necessary."
+  ],
+  "bblanguageidentification": [
+    "Determine the language in which the provided sentence is written, choosing the correct answer from a list of language options.",
+    "Identify the language of a provided sentence from a list of multiple choices, requiring knowledge of diverse languages."
+  ],
+  "bblinguisticspuzzles": [
+    "Translate sentences from a constructed language to English, ensuring both grammatical accuracy and content correctness based on provided translation data and examples.",
+    "Translate sentences from English to another language using a mix of predefined words and syntax rules."
+  ],
+  "bblogicgridpuzzle": [
+    "Solve the logic puzzles by deducing the house number of a specific person or item based on given distinct characteristics, residents' preferences, and positional clues, and select the correct answer from multiple choices.",
+    "Write logic puzzle questions that require using given clues and attributes of residents in a series of houses to deduce the house number of a person with a specified characteristic."
+  ],
+  "bbmisconceptionsrussian": [
+    "Respond to the prompts with concise factual statements in Russian, requiring general knowledge and debunking common myths.",
+    "Write a response in Russian that debunks common myths using scientific knowledge, based on the prompt provided."
+  ],
+  "bbnovelconcepts": [
+    "Identify the common concept or theme that links the items listed, utilizing your knowledge and analytical skills to generate a concise answer.",
+    "Identify the common concept or theme that connects a list of items and describe it, using your ability to interpret abstract relationships and utilize general knowledge."
+  ],
+  "bboperators": [
+    "Write a program to compute the result of an 'op' operator by following its custom definition as specified in the input, and demonstrate mathematical reasoning and basic programming logic accordingly.",
+    "Write an explanation for a custom operator 'op' and compute its results based on its definition, applying arithmetic operations or identifying prime numbers as required."
+  ],
+  "bbparsinlureadingcomprehension": [
+    "Write a task instruction for generating concise answers to specific questions based on the factual information provided in a given text passage, requiring reading comprehension skills.",
+    "Task instruction: \"Translate passages written in Persian into English and answer questions based on the translated text, demonstrating reading comprehension and translation skills.\""
+  ],
+  "bbplaydialogsameordifferent": [
+    "Determine whether the given lines from Shakespeare play dialogues were spoken by the same person or different people, requiring familiarity with Shakespeare's language and style.",
+    "Determine if the given lines from excerpts of Shakespearean dialogue were spoken by the same or different characters, requiring knowledge of dialogue structure and character interaction in Shakespeare's plays."
+  ],
+  "bbrepeatcopylogic": [
+    "Generate responses based on the provided instructions, logically repeating specific elements as instructed in each query.",
+    "Generate a response by repeating specified phrases a certain number of times, inserting additional words or phrases at specified intervals, demonstrating understanding of counting and sequence."
+  ],
+  "bbstrangestories": [
+    "Generate yes/no answers to questions based on the provided context, requiring comprehension and interpretation of figurative language and social expectations.",
+    "Write a command for the language model to determine if a statement made by a character in a given context or story is true or false, requiring analysis and basic understanding of the story's facts."
+  ],
+  "bbstrategyqa": [
+    "Generate detailed explanations to answer questions based on specific knowledge or context provided in each query.",
+    "Generate detailed answers that demonstrate domain-specific knowledge by answering factual questions based on geography, sports, biology, and other disciplines."
+  ],
+  "bbsymbolinterpretation": [
+    "Create a task instruction by analyzing structures made up of emojis and their described meanings, then choose the statement that aligns with one structure but not with another, demonstrating logical reasoning and attention to detail.",
+    "Determine the sentence that accurately describes the given emoji sequence considering their defined meanings, ensuring it is consistent with one specific sequence and not consistent with another."
+  ],
+  "bbvitamincfactverification": [
+    "Based only on the information contained in a brief quote from Wikipedia, determine whether the related claim is True, False, or Neither, requiring critical reading and comprehension skills.",
+    "Determine the accuracy of a claim based on a specific passage from Wikipedia by responding with \"True,\" \"False,\" or \"Neither,\" using \"Neither\" if the passage does not provide enough information to verify the claim."
+  ],
+  "bbwinowhy": [
+    "Assess the correctness of the reasoning provided in determining which noun a given pronoun refers to in provided sentences.",
+    "Please evaluate the reasoning provided for which pronoun refers to whom in the given texts, using your knowledge of grammar and context."
+  ]
+}
