@@ -19,6 +19,10 @@ Our codebase is built upon [Phatgoose](https://github.com/r-three/phatgoose).
 * Paper: [arXiv](https://arxiv.org/abs/2410.07172)
 * Checkpoints: [HuggingFace](https://huggingface.co/collections/MoE-UNC/glider-checkpoints-67142ab5485b75297d610886)
 
+**Glider**—Solve held-in/-out tasks with a collection of specialized experts like LoRA at the same time!
+
+<img src = "static/pipeline.png" align = "center" width="100%" hight="100%">
+
 ### I. Abstract
 The availability of performant pre-trained models has led to a proliferation of fine-tuned expert models that are
 specialized to particular domains. This has enabled the creation of powerful and adaptive routing-based "Model MoErging"
