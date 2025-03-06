@@ -6,7 +6,7 @@
 
 [#license-gh-package]: https://lbesson.mit-license.org/
 
-[#arxiv-paper-package]: https://arxiv.org/abs/2406.07496
+[#arxiv-paper-package]: https://arxiv.org/abs/2410.07172
 
 <!--- BADGES: END --->
 
